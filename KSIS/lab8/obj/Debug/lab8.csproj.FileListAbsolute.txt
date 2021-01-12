@@ -1,0 +1,7 @@
+C:\Users\sasha\OneDrive\Документы\Учеба\2 курс 1 сем\СиАОД\lab8\bin\Debug\lab8.exe.config
+C:\Users\sasha\OneDrive\Документы\Учеба\2 курс 1 сем\СиАОД\lab8\bin\Debug\lab8.exe
+C:\Users\sasha\OneDrive\Документы\Учеба\2 курс 1 сем\СиАОД\lab8\bin\Debug\lab8.pdb
+C:\Users\sasha\OneDrive\Документы\Учеба\2 курс 1 сем\СиАОД\lab8\obj\Debug\lab8.csprojAssemblyReference.cache
+C:\Users\sasha\OneDrive\Документы\Учеба\2 курс 1 сем\СиАОД\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+C:\Users\sasha\OneDrive\Документы\Учеба\2 курс 1 сем\СиАОД\lab8\obj\Debug\lab8.exe
+C:\Users\sasha\OneDrive\Документы\Учеба\2 курс 1 сем\СиАОД\lab8\obj\Debug\lab8.pdb
